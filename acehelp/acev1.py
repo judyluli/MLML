@@ -1,5 +1,5 @@
 import tensorflow as tf
-import utils
+from . import utils
 import numpy as np
 import time
 # this is test for github
