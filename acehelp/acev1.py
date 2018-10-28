@@ -1,6 +1,6 @@
 import tensorflow as tf
 import utils
-
+# this is test for github
 class ACE():
     def
     __init__(self,layers=[50,50,50,50],alpha=0.001,optimizer=tf.train.AdamOptimizer(0.001),num_features=None,num_labels=None,seed=None):
